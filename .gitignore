@@ -1,0 +1,9 @@
+# NodeJS
+/node_modules
+npm-debug.log
+
+# Project
+/src/**/*.js
+/src/**/*.js.map
+/src/**/*.css
+/build
